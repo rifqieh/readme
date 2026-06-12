@@ -26,7 +26,7 @@
 <a href="mailto:rifqiehdev@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/ekarifqi1">
+<a href="https://github.com/rifqieh">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -597,7 +597,7 @@ Open To:
   - Full-stack startup MVP development
   - Open-source collaboration
   - Technical mentorship and engineering education
-<div align="center"> <a href="mailto:rifqiehdev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/rifqi-eka-hardianto"> <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ekarifqi1"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://rifqieh.com"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div>
+<div align="center"> <a href="mailto:rifqiehdev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/rifqi-eka-hardianto"> <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/rifqieh"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://rifqieh.com"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div>
 
 <div align="center">
 
